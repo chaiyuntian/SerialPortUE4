@@ -7,7 +7,7 @@
 	"CreatedBy" : "chaiyuntian",
 	"CreatedByURL" : "www.unreallight.com",
 	"EngineVersion" : 1579795,
-	"Description" : "Serial Port Plugin in UE4!",
+	"Description" : "Serial Port Plugin in UE4! Plugin Wrapper for http://wjwwood.github.com/serial/",
 	"Category" : "UnrealLight",
 	
 	"Modules" :
