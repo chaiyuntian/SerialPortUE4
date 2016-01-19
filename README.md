@@ -7,7 +7,7 @@ It's a wrapper for a serial port C++ library.
 The original library author are William Woodall and John Harrison.
 
 Serial Port Library:
-http://wjwwood.github.com/serial/(https://github.com/wjwwood/serial)
+[http://wjwwood.github.com/serial/](https://github.com/wjwwood/serial)
 
 
 
