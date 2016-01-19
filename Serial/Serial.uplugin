@@ -1,0 +1,21 @@
+{
+	"PluginFileVersion" : 3,
+
+	"FriendlyName" : "UnrealLight Serial Port Plugin",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "chaiyuntian",
+	"CreatedByURL" : "www.unreallight.com",
+	"EngineVersion" : 1579795,
+	"Description" : "Serial Port Plugin in UE4!",
+	"Category" : "UnrealLight",
+	
+	"Modules" :
+	[	
+		{
+			"Name" : "Serial",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		} 
+	]
+}
