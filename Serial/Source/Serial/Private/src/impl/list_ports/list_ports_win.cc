@@ -6,7 +6,6 @@
  * A copy of the licence can be obtained from:
  * http://opensource.org/licenses/MIT
  */
-#include "AllowWindowsPlatformTypes.h"
 #include "serial.h"
 #include <tchar.h>
 #include <windows.h>
@@ -148,7 +147,5 @@ serial::list_ports()
 
 	return devices_found;
 }
-
-#include "HideWindowsPlatformTypes.h"
 
 #endif // #if defined(_WIN32)
