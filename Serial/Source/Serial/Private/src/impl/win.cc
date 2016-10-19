@@ -4,7 +4,6 @@
 
 #include <sstream>
 
-#include "AllowWindowsPlatformTypes.h"
 #include "win.h"
 
 
@@ -638,7 +637,6 @@ Serial::SerialImpl::writeUnlock()
   }
 }
 
-#include "HideWindowsPlatformTypes.h"
 
 #endif // #if defined(_WIN32)
 
